@@ -1,0 +1,19 @@
+# 本地 Token 与运行产物（禁止进 Git）
+.env
+*.env
+__pycache__/
+*.pyc
+
+# 临时探针/抓取脚本（本地验证用，不提交）
+.live_*.py
+.capture_real.py
+.live_tools.json
+
+# 根目录真实取数快照（含个人信息风险，禁止进 Git）
+/real_*.json
+
+# 生成式输出（可由脚本再生，不提交）
+*.out.json
+report.html
+demo_report.html
+*.log

@@ -1,0 +1,88 @@
+{
+  "city": {
+    "code": 610900,
+    "latitude": 32.685435,
+    "longitude": 109.029017,
+    "name": "安康市",
+    "initial": "A",
+    "sortNo": 7
+  },
+  "store_sample": [
+    {
+      "address": "金州南路 95 号时代购物广场",
+      "cityCode": "610900",
+      "cityName": "安康市",
+      "latitude": 32.692556,
+      "longitude": 109.02701,
+      "name": "麦当劳安康时代购物广场餐厅",
+      "shortName": "安康时代购物广场餐厅",
+      "code": "1960713",
+      "distance": 813,
+      "distanceText": "813m",
+      "businessStatus": 1,
+      "onlineBusinessStatus": true
+    },
+    {
+      "address": "高新区安康大道万乐城",
+      "cityCode": "610900",
+      "cityName": "安康市",
+      "latitude": 32.696497,
+      "longitude": 108.992662,
+      "name": "麦当劳安康万乐城餐厅",
+      "shortName": "安康万乐城餐厅",
+      "code": "1960663",
+      "distance": 3615,
+      "distanceText": "3.6km",
+      "businessStatus": 1,
+      "onlineBusinessStatus": true
+    }
+  ],
+  "date_sample": [
+    {
+      "date": "2026-10-12",
+      "storeCode": "1960713"
+    },
+    {
+      "date": "2026-10-13",
+      "storeCode": "1960713"
+    },
+    {
+      "date": "2026-10-14",
+      "storeCode": "1960713"
+    },
+    {
+      "date": "2026-10-15",
+      "storeCode": "1960713"
+    },
+    {
+      "date": "2026-10-16",
+      "storeCode": "1960713"
+    }
+  ],
+  "session_sample": [
+    {
+      "id": 36784432,
+      "timeStart": "10:30",
+      "timeEnd": "12:00",
+      "partyMin": 5,
+      "partyMax": 12,
+      "price": 4500,
+      "cookEmpNo": "",
+      "opEmpNo": "",
+      "rgmEmpNo": "15176614",
+      "leftNum": 12
+    },
+    {
+      "id": 36789360,
+      "timeStart": "14:00",
+      "timeEnd": "15:30",
+      "partyMin": 5,
+      "partyMax": 12,
+      "price": 4500,
+      "cookEmpNo": "",
+      "opEmpNo": "",
+      "rgmEmpNo": "15176614",
+      "leftNum": 12
+    }
+  ]
+}
